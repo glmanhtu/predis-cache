@@ -2,6 +2,8 @@
 =========================================
 Simple Wordpress plugin to manage cache in Redis
 
+This project are under development, if you are interested with this project, please contributing
+
 ##Features
 
 *	Support clean cache of home page when we have new post
@@ -9,7 +11,10 @@ Simple Wordpress plugin to manage cache in Redis
 *  Support clean entire cache
 
 ##How to install
-*	Download the zip version of this repository & install to your WP via file upload
+*	Download the zip version of this repository 
+* 	Unzip & replace redis_host in predis-cache.php file
+*  	Compress again
+* 	Install to your WP via file upload
 *	Active Predis-Cache plugin
 
 ##Usage

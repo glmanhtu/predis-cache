@@ -6,7 +6,7 @@ Version: 1.0
 Author: Manh Tu
 */
 
-$redis_host = "tgtn-001.mm9ndj.0001.apse1.cache.amazonaws.com:6379";
+$redis_host = "<your redis host>:<your redis port>";
 
 /**
 * Edit post 
